@@ -4,7 +4,8 @@
 //
 //  Created by Parkin on 2017/7/20.
 //  Copyright © 2017年 Parkin. All rights reserved.
-//
+//$(SRCROOT)/ELTokenLogin/ELLogin.pch
+///Users/cln/Documents/OC SourceCode/QQ微信新浪登录ELTokenLogin/ELTokenLogin/ELTokenLogin/ELLogin.pch
 
 #ifndef ELLogin_pch
 #define ELLogin_pch

@@ -195,6 +195,7 @@
 				TargetAttributes = {
 					D417B8921F208533002D9D50 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = KPZB7A4HR4;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -414,13 +415,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: yang yun (69LUFC46KC)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				ENABLE_BITCODE = NO;
-				GCC_PREFIX_HEADER = /Users/Liuminglu/Desktop/ELTokenLogin/ELTokenLogin/ELLogin.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/ELTokenLogin/ELLogin.pch";
 				INFOPLIST_FILE = ELTokenLogin/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.duobao;
+				PRODUCT_BUNDLE_IDENTIFIER = com.luwei.fortunedonkey1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -435,13 +436,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: yang yun (59GXZM39LM)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				ENABLE_BITCODE = NO;
-				GCC_PREFIX_HEADER = /Users/Liuminglu/Desktop/ELTokenLogin/ELTokenLogin/ELLogin.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/ELTokenLogin/ELLogin.pch";
 				INFOPLIST_FILE = ELTokenLogin/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.duobao;
+				PRODUCT_BUNDLE_IDENTIFIER = com.luwei.fortunedonkey1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
